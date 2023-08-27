@@ -1,3 +1,3 @@
 # AdvocateWebsite
-# Use this template to create freelancer website
-# For Advocate
+# Use this template to create Advocate freelancer website
+
