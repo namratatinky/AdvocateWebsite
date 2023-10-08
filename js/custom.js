@@ -3,7 +3,7 @@ function sendEmail() {
         Host: "smtp.elasticemail.com",
         Username: "namratarose2011@gmail.com",
         Password: "4A065CC472318FD5220ECCDB23D49823AF96",
-        To: 'info@aarambhstart.com',
+        To: 'info@alkakumariadvocate.in',
         From: "namratarose2011@gmail.com",
         Subject: "Client Query",
         Body: "Name: " + document.getElementById("name").value
